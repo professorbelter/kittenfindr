@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kittenfindr/static/css/main.812448e3.css",
-    "main.js": "/kittenfindr/static/js/main.55f783b0.js",
-    "static/js/787.26315c7e.chunk.js": "/kittenfindr/static/js/787.26315c7e.chunk.js",
-    "index.html": "/kittenfindr/index.html",
-    "main.812448e3.css.map": "/kittenfindr/static/css/main.812448e3.css.map",
-    "main.55f783b0.js.map": "/kittenfindr/static/js/main.55f783b0.js.map",
-    "787.26315c7e.chunk.js.map": "/kittenfindr/static/js/787.26315c7e.chunk.js.map"
+    "main.css": "/static/css/main.812448e3.css",
+    "main.js": "/static/js/main.645dfac1.js",
+    "static/js/787.26315c7e.chunk.js": "/static/js/787.26315c7e.chunk.js",
+    "index.html": "/index.html",
+    "main.812448e3.css.map": "/static/css/main.812448e3.css.map",
+    "main.645dfac1.js.map": "/static/js/main.645dfac1.js.map",
+    "787.26315c7e.chunk.js.map": "/static/js/787.26315c7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.812448e3.css",
-    "static/js/main.55f783b0.js"
+    "static/js/main.645dfac1.js"
   ]
 }
